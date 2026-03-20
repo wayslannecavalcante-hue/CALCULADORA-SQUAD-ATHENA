@@ -1,0 +1,5 @@
+{
+  "name": "Squad Dashboard",
+  "description": "An editable dashboard for tracking Squad metrics, MRR, ARR, and team performance.",
+  "requestFramePermissions": []
+}
